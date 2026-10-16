@@ -1,4 +1,6 @@
-# Installation
+# Subset sum with Grover's algorithm
+
+## Installation
 The easiest way to get the python notebook up and run is to install uv and then run the following command within the folder:
 ```bash
 uv run quantum-subset-sum
